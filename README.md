@@ -1,5 +1,6 @@
 # MongoDB-Zen-Class-Programme
 
+Screenshots are added in Queries section
 
 ## The Commands for Each Questions
 
